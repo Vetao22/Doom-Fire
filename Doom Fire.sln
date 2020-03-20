@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doom Fire", "Doom Fire\Doom Fire.csproj", "{DC0C2833-5DE8-48A3-AA87-259604480314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0C2833-5DE8-48A3-AA87-259604480314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0C2833-5DE8-48A3-AA87-259604480314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0C2833-5DE8-48A3-AA87-259604480314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0C2833-5DE8-48A3-AA87-259604480314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC259AF2-9B7E-4FBF-BC56-4AFD78FA335F}
+	EndGlobalSection
+EndGlobal
